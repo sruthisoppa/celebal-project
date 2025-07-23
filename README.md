@@ -38,9 +38,6 @@ This portfolio website serves as my online resume and a dynamic showcase of my w
 - **Contact Form**: A direct way for visitors to get in touch, integrated with a backend service (e.g., Formspree).
 - **Social Links**: Easy access to my professional social profiles (LinkedIn, GitHub, etc.).
 - **Downloadable Resume**: A prominent link for quick access to my full resume.
-- **Optional**:
-  - **Blog/Articles Section** *(if implemented)*
-  - **Testimonials Section** *(if implemented)*
 
 ---
 
