@@ -28,7 +28,7 @@ This portfolio website serves as my online resume and a dynamic showcase of my w
 ## ✨ Features
 
 - **Clean & Responsive Design**: Optimized for desktop, tablet, and mobile viewing.
-- **Hero Section**: A welcoming introduction with a dynamic typewriter effect *(if implemented)*.
+- **Hero Section**: A welcoming introduction with a dynamic typewriter effect.
 - **About Me**: A personal narrative highlighting my journey, passions, and professional goals, accompanied by a professional headshot.
 - **Dedicated Skills Section**: Categorized display of programming languages, frameworks, databases, and tools.
 - **Enhanced Project Gallery**:
