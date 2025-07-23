@@ -1,4 +1,4 @@
-# Your Name | Developer Portfolio
+# SOPPA SRUTHI | DEVELOPER PORTFOLIO
 
 A modern, responsive, and engaging personal portfolio website to showcase my skills, projects, and professional journey as a developer. This site is designed to provide potential employers and collaborators with a comprehensive overview of my technical abilities and passion for building impactful solutions.
 
@@ -67,61 +67,54 @@ This portfolio website serves as my online resume and a dynamic showcase of my w
 To get a local copy up and running, follow these steps:
 
 ### ✅ Prerequisites
+
 - A modern web browser (Chrome, Firefox, Edge, etc.)
+
 
 ### 💻 Installation
 
 Clone the repository:
+
 ```bash
 git clone https://github.com/sruthisoppa/celebal-project.git
+````
+
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+```bash
 cd your-portfolio
-📂 Usage
-Open the index.html file in your web browser.
+```
 
-For macOS/Linux:
+---
 
-bash
-Copy
-Edit
+### 📂 Usage
+
+Open the `index.html` file in your web browser.
+
+For **macOS/Linux**:
+
+```bash
 open index.html
-For Windows:
+```
 
-bash
-Copy
-Edit
+For **Windows**:
+
+```bash
 start index.html
-🌐 Deployment
-This is a static website and can be deployed easily using:
+```
 
-GitHub Pages
+---
 
-Netlify
+### 📄 License
 
-Vercel
-
-✅ For GitHub Pages:
-
-Push your code to main (or gh-pages)
-
-Enable GitHub Pages from your repo settings
-
-🤝 Contributing
-As this is a personal portfolio, contributions are not typically expected.
-However, if you have suggestions or find any issues, feel free to:
-
-Open an issue
-
-Contact me directly
-
-📄 License
 Distributed under the MIT License.
-See LICENSE file for more information. (Or state: All Rights Reserved if you do not want it open source.)
+See the `LICENSE` file for more information.
+(Or state: **"All Rights Reserved"** if you do not want it open source.)
 
-📬 Contact
-Your Name – sruthisoppa@gmail.com
-Project Link – https://github.com/sruthisoppa/celebal-project
+---
+
+### 📬 Contact
+
+**Sruthi Soppa** – [sruthisoppa@gmail.com](mailto:sruthisoppa@gmail.com)
+**Project Link** – [https://github.com/sruthisoppa/celebal-project](https://github.com/sruthisoppa/celebal-project)
+
